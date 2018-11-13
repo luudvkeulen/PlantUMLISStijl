@@ -5,17 +5,15 @@ hide footbox
 
 skinparam {
     dpi 300
-
     shadowing false
-
     backgroundColor white
-
     defaultFontName Arial
     defaultFontColor issecondary
-
     ArrowColor issecondary
     ActorBorderColor isprimary
     ActorBackgroundColor white
+    titleBorderThickness 2
+    titleBorderColor issecondary
 
     sequence {
         LifeLineBorderColor issecondary
