@@ -41,4 +41,7 @@ https://raw.githubusercontent.com/luudvkeulen/PlantUMLISStijl/master/remoteindex
 ```
 
 # Voorbeelden
+### Activity diagram
 ![alt text](https://i.imgur.com/JYLcZyn.png "Activity diagram")
+### Sequence diagram
+![alt text](https://raw.githubusercontent.com/luudvkeulen/PlantUMLISStijl/master/out/voorbeelden/sequencediagram/Sequence%20diagram.png "Sequence diagram")
