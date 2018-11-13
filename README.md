@@ -21,3 +21,6 @@ Om via een url te werken kan `!includeurl gebruikt worden`. Als er met een url g
 // Rest van de code
 @enduml
 ```
+
+# Voorbeelden
+![alt text](https://i.imgur.com/JYLcZyn.png "Activity diagram")
