@@ -14,7 +14,7 @@ Om een lokale kopie te gebruiken moet allereerst het design.puml bestande gedown
 ```
 
 ## Via een url
-Om via een url te werken kan `!includeurl gebruikt worden`. Als er met een url gewerkt wordt heb je altijd de laatste versie. Hieronder een voorbeeld:
+Om via een url te werken kan `!includeurl` gebruikt worden. Als er met een url gewerkt wordt heb je altijd de laatste versie. Hieronder een voorbeeld:
 ```
 @startuml
 !includeurl https://raw.githubusercontent.com/luudvkeulen/PlantUMLISStijl/master/design.puml
