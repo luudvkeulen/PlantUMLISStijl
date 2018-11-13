@@ -1,0 +1,68 @@
+!define isprimary #0094D8
+!define issecondary #02315A
+
+hide footbox
+
+skinparam {
+    dpi 300
+
+    shadowing false
+
+    backgroundColor white
+
+    defaultFontName Arial
+    defaultFontColor issecondary
+
+    ArrowColor issecondary
+    ActorBorderColor isprimary
+    ActorBackgroundColor white
+
+    sequence {
+        LifeLineBorderColor issecondary
+
+        ParticipantBorderColor isprimary
+        ParticipantBackgroundColor white
+
+        GroupBorderColor isprimary
+        GroupBackgroundColor isprimary
+        GroupHeaderFontColor white
+    }
+
+    usecase {
+        BackgroundColor white
+        BorderColor isprimary
+    }
+
+    activity {
+        StartColor issecondary
+
+        BorderColor isprimary
+        BackgroundColor white
+
+        DiamondBorderColor isprimary
+        DiamondBackgroundColor white
+
+        EndColor issecondary
+        EndBorderColor issecondary
+    }
+
+    class {
+        BackgroundColor white
+        BorderColor isprimary
+    }
+
+    package {
+        BackgroundColor white
+        BorderColor isprimary
+    }
+
+    cloud {
+        BackgroundColor white
+        BorderColor isprimary
+    }
+    
+    database {
+        BackgroundColor white
+        BorderColor isprimary
+    }
+}
