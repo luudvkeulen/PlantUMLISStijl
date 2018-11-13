@@ -43,6 +43,6 @@ Indien het design en de methoden beide nodig zijn kunnen deze beide toegevoegd w
 
 # Voorbeelden
 ### Activity diagram
-![alt text](https://i.imgur.com/JYLcZyn.png "Activity diagram")
+![alt text](https://github.com/luudvkeulen/PlantUMLISStijl/raw/master/voorbeelden/activitydiagram.png "Activity diagram")
 ### Sequence diagram
-![alt text](https://raw.githubusercontent.com/luudvkeulen/PlantUMLISStijl/master/out/voorbeelden/sequencediagram/Sequence%20diagram.png "Sequence diagram")
+![alt text](https://github.com/luudvkeulen/PlantUMLISStijl/raw/master/voorbeelden/sequencediagram.png "Sequence diagram")
