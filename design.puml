@@ -71,6 +71,6 @@ skinparam {
 
     note {
         BackgroundColor white
-        BorderColor isprimary
+        BorderColor issecondary
     }
 }
