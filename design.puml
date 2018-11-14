@@ -70,7 +70,7 @@ skinparam {
     }
 
     note {
-        BackgroundColor white
+        BackgroundColor #F3F3F3
         BorderColor issecondary
     }
 }
