@@ -68,4 +68,9 @@ skinparam {
         BackgroundColor white
         BorderColor isprimary
     }
+
+    note {
+        BackgroundColor white
+        BorderColor isprimary
+    }
 }
