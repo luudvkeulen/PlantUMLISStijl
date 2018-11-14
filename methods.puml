@@ -1,9 +1,7 @@
-@startuml
-    !define request(a,b,c) a -> b: c
-    !define return(a,b,c) a --> b: c
-    !define self(a,b) a -> a: b
-    !definelong frame(name, type) 
-    package name <<type>>{
+!define request(a,b,c) a -> b: c
+!define return(a,b,c) a --> b: c
+!define self(a,b) a -> a: b
+!definelong frame(name, type) 
+package name <<type>>{
 
-    }
-@enduml
+}
