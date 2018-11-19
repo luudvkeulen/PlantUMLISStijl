@@ -47,6 +47,8 @@ skinparam {
     class {
         BackgroundColor white
         BorderColor isprimary
+        stereotypeCBackgroundColor isprimary
+        stereotypeCBorderColor issecondary
     }
 
     package {
