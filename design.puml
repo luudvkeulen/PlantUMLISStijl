@@ -75,4 +75,14 @@ skinparam {
         BackgroundColor #F3F3F3
         BorderColor issecondary
     }
+
+    component {
+        BackgroundColor white
+        BorderColor isprimary
+    }
+
+    interface {
+        BackgroundColor white
+        BorderColor isprimary
+    }
 }
