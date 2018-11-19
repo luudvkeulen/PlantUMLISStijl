@@ -14,6 +14,8 @@ skinparam {
     ActorBackgroundColor white
     titleBorderThickness 2
     titleBorderColor issecondary
+    stereotypeCBackgroundColor isprimary
+    stereotypeCBorderColor issecondary
 
     sequence {
         LifeLineBorderColor issecondary
@@ -46,9 +48,7 @@ skinparam {
 
     class {
         BackgroundColor white
-        BorderColor isprimary
-        stereotypeCBackgroundColor isprimary
-        stereotypeCBorderColor issecondary
+        BorderColor isprimary        
     }
 
     package {
