@@ -4,7 +4,6 @@
 hide footbox
 
 skinparam {
-    dpi 300
     shadowing false
     backgroundColor white
     defaultFontName Arial
