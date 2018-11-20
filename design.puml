@@ -84,4 +84,11 @@ skinparam {
         BackgroundColor white
         BorderColor isprimary
     }
+
+    state {
+        BackgroundColor white
+        BorderColor isprimary
+        StartColor issecondary
+        EndColor issecondary
+    }
 }
