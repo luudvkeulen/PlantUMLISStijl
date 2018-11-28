@@ -91,4 +91,9 @@ skinparam {
         StartColor issecondary
         EndColor issecondary
     }
+
+    queue {
+        BackgroundColor white
+        BorderColor isprimary
+    }
 }
